@@ -258,7 +258,7 @@ def imprimir_menu():
 
     categoria_actual = None
     print("\n" + "═" * 60)
-    print("        ☕  MENÚ — CAFETERÍA IA  ☕")
+    print("           MENÚ — CAFETERÍA IA  ")
     print("═" * 60)
 
     for p in menu:
