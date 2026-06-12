@@ -1,6 +1,4 @@
 """
-agente_pedido.py
-================
 Agente 2 — Generador de Pedido
 Responsabilidades:
   - Recibir los productos detectados por el Agente 1

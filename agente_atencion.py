@@ -1,6 +1,4 @@
 """
-agente_atencion.py
-==================
 Agente 1 — Atención al Cliente
 Responsabilidades:
   - Recibir el mensaje en texto libre del cliente
@@ -8,9 +6,6 @@ Responsabilidades:
   - Extraer productos y cantidades solicitados
   - Generar una respuesta amigable
   - Todo usando Gemini API (google-generativeai)
-
-Instalación requerida:
-  pip install google-generativeai
 """
 
 import json

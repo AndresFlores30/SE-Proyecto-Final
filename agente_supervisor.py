@@ -1,6 +1,4 @@
 """
-agente_supervisor.py
-====================
 Agente 3 — Supervisor / Explicador
 Responsabilidades:
   - Recibir el resultado completo del Agente 2

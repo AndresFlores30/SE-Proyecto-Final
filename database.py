@@ -1,6 +1,4 @@
 """
-database.py
-===========
 Módulo de base de datos para el sistema experto de Cafetería IA.
 Gestiona la conexión a SQLite y la creación de todas las tablas.
 """

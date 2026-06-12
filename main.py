@@ -1,6 +1,4 @@
 """
-main.py
-=======
 Orquestador principal de Cafetería IA.
 Encadena los tres agentes en orden y gestiona el flujo completo:
 
